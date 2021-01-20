@@ -1,0 +1,66 @@
+{
+"appetizers":[
+    {
+        "name":"Potato Salad",
+        "ingedients":["red skin potatoes", "eggs","mayo", "mustard","dill","onion","celery","smoked paprika"],
+        "description":"Like Grandma used to make, but better!"
+    },
+    {
+        "name":"Classic Macaroni Salad",
+        "ingedients":["elbow noodles","mayo","mustard","onion","celery","green pepper","carrot","pimento peppers"],
+        "description":"Can't go wrong with this classic!"
+    }
+]
+,
+"Cold Sandwiches":[
+    {
+        "name":"Pasquale",
+        "ingedients":["Roast beef","ham and turkey", "red onions", "provolone", "lettuce", "tomato","and Colby cheese and the Deli’s special sauce."],
+        "description":"So good, you'll be coming back for more!"
+    },
+    {
+        "name":"Muffaletta",
+        "ingedients":["Genoa salami", "pepperoni", "ham and provolone cheese", "Topped withroasted red peppers and a home made olive spread.", "Served on sliced foccacia"],
+        "description":"When you can't just fly to New Orleans"
+    }
+]
+,
+"Hot Sandwiches":[
+    {
+        "name":"Avocado Blue",
+        "ingedients":["Oven-roasted turkey", "blue cheese crumbles", "bacon", "avocado pesto and honey mustard."],
+        "description":"You're my boy Blue!"
+    },
+    {
+        "name":"Brisket Sandwich",
+        "ingedients":["Mesquite smokehouse brisket with BBQ sauce", "coleslaw", "cheddar cheese on Italian bread."],
+        "description":"The best brisket sandwich y'all will ever have!"
+    }
+]
+,
+"Desserts":[
+    {
+        "name":"The Original Cheesecake Sandwich",
+        "ingedients":["Whole slice New York cheescake,","brioche roll","chocolate sauce","strawberry sauce","Oreo crumbles","topped with powdered sugar."],
+        "description":"A Broadway Favorite"
+    },
+    {
+        "name":"Chocolate Eruption",
+        "ingedients":["Rich chocolate cream cake","nuts","chocolate chips","turtle cheesecake","chocolate curls","caramal"],
+        "description":"Rish chocalatey goodness"
+    }
+]
+,
+"Drinks":[
+    {
+        "name":"Mint Arnold Plamer",
+        "ingedients":["Fresh brewed iced tea","fresh squeezed lemons","mint simple syrup"],
+        "description":"Refreshing and delicious"
+    },
+    {
+        "name":"Agua de Jamiaca",
+        "ingedients":["hibiscus flowers","cinnamon","ginger","allspice","lime"],
+        "description":"A splash of the islands"
+    }
+]
+}
