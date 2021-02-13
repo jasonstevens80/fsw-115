@@ -1,0 +1,32 @@
+#planets {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#species {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    text-align: center;
+}
+
+#worlds{
+    background-image: url("http://images.wikia.com/starwars/images/1/11/Caamas_TFUCG.jpg");
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#things{
+    background-image: url("https://starwarsclonewarsfan.files.wordpress.com/2008/08/characters3.jpg");
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
