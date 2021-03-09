@@ -25,6 +25,9 @@ function listTodos(todos) {
         const deleteButton = document.createElement('button');
         deleteButton.innerHTML = '<i class="fa fa-trash"></i>';
 
+        const editButton = document.createElement('button');
+        editButton.innerHTML = '<i class="fas fa-edit"></i>';
+
         
 
         const completion = document.createElement('input');
@@ -68,6 +71,7 @@ function listTodos(todos) {
         toDoList.appendChild(description);
         toDoList.appendChild(beerDisplay)
         h3.appendChild(deleteButton);
+        h3.appendChild(editButton)
        
        
     }
@@ -98,7 +102,7 @@ todoInput.addEventListener("submit", function (event) {
             const newTodo = {
                 title: todoInput.title.value,
                 description: todoInput.description.value,
-                imgUrl: beerTagline + " ~ " + randomBeer 
+                imgUrl: randomBeer + " ~ " + beerTagline 
             }
 
             todoInput.title.value = "";
